@@ -1,7 +1,7 @@
 # neat 4-player adapter
 4-player adapter for Commodore 64 based on the [Protovision design](https://www.protovision.games/hardw/build4player.php?language=en#buildit).
 
-Schematic, gerbers and coming soon.
+Schematic and gerbers coming soon.
 
 Added features:
 - ESD protection
