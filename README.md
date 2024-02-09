@@ -15,7 +15,7 @@ Added features:
     <img src="images/proto1.jpg">
 </center>
 
-[Interactive HTML BOM](https://htmlpreview.github.io/?https://github.com/1c3d1v3r/neat_4-player_adapter/blob/main/BOM/neat%204-player%20adapter%20INTERACTIVE%20BOM%20BOM.html) for soldering.\
+[Interactive HTML BOM](https://htmlpreview.github.io/?https://github.com/1c3d1v3r/neat_4-player_adapter/blob/main/BOM/neat%204-player%20adapter%20INTERACTIVE%20BOM.html) for soldering.\
 Bill of materilas:
 | Definition                                         | Manufacturer                    | Manufacturer PN   | Case/Package | Quantity | Designator | Link                                                                                         |
 |----------------------------------------------------|---------------------------------|-------------------|--------------|----------|------------|----------------------------------------------------------------------------------------------|
