@@ -45,7 +45,7 @@ Below are the ordering parameters for JLCpcb. Add the PCB remark for the cover o
 **Parameters for the PCB:**<br>
 PCB Thickness: 1.6mm<br>
 PCB Color: Black<br>
-Surface Finish: HASL (or lead-free HASL)
+Surface Finish: HASL (or lead-free HASL)<br>
 Via Covering: Tented<br>
 
 **Parameters for the cover:**<br>
